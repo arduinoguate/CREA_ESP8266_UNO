@@ -1,5 +1,13 @@
-b64 - Simple Base64 Encoding Library for Arduino
+CREA ESP266 for Arduino UNO
+======================
 
-Makes it easier to Base64 encode data.  Initially written to allow the HttpClient library to
-support Basic Authentication.
+Simple Library for Arduino UNO and the ESP8266 Wifi Module
 
+Allows the communication with CREA and an Arduino simpler. Just follow the example to understand its use.
+
+Good Luck
+
+ALERT
+-----------------
+
+This library is still very unstable for using with Arduino UNO. Please have a look at it and if you can refactor it, please make a pull request.
